@@ -1,1 +1,1 @@
-Sigma
+DiscordBot-Sigma
